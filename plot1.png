@@ -1,4 +1,0 @@
-it add xxx.png
-git commit -m 'add png file'
-git remote add origin https://raw.githubusercontent.com/rfoxfa/Exploratory_Data_Analysis/master/Course%20Project%201/plot2.png
-git push -u origin master
